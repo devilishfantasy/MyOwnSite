@@ -9,7 +9,8 @@ async function loadMovies() {
                 <img src="${m.image}" alt="poster" class="film-poster">
                 <span class="body">
                     <span class="film-title">${m.title}</span>
-                    <span class="film-votes">${m.kp_rating ?? '—'} / ${m.imdb_rating ?? '—'}</span>
+                    <span class="film-votes">${m.kp_rating ?? '—'}</span>
+                    <span class="film-votes">${m.imdb_rating ?? '—'}</span>
                 </span>
             </a>
         `).join('');
