@@ -1,6 +1,6 @@
 async function loadMovies() {
     try {
-        const response = await fetch('movies.json');
+        const response = await fetch('/projects/python.parser/movies.json');
         const movies = await response.json();
         
         const grid = document.querySelector('.grid-movies');
