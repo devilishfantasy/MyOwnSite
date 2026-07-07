@@ -3,9 +3,9 @@
 
 ## Стек
 - HTML / CSS / JavaScript (vanilla, без фреймворков)
-- Python (BeautifulSoup) — парсинг данных
-- GitHub Actions — автообновление данных по расписанию
-- Vercel — хостинг и автодеплой
+- Python (BeautifulSoup) - парсинг данных
+- GitHub Actions - автообновление данных по расписанию
+- Vercel - хостинг и автодеплой
 
 ## Структура проекта
 ```
