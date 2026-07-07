@@ -31,6 +31,7 @@ def parse_films(url, limit=12):
         link_tag = film.find('a')
         link_url = urljoin(url, link_tag.get('href')) if link_tag else None
 
+        
         films_data.append({
             "title": title,
             "kp_rating": kp_rating,
@@ -52,8 +53,6 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 if __name__ == '__main__':
     films = parse_films(URL, limit=12)
     films_page_2 = parse_films(URL_PAGE_2, limit=2)
-
     all_films = films + films_page_2
 
     save_to_json(all_films, os.path.join(BASE_DIR, 'movies.json'))
-    print(f'Сохранено {len(all_films)} фильмов в movies.json')
