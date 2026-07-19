@@ -1,17 +1,17 @@
 [
   {
-    "title": "Живая ярость (2025)",
-    "kp_rating": "KP 7.0",
-    "imdb_rating": "IMDB 7.5",
-    "image": "https://uakinogo.tv/uploads/mini/minifull/f7f/1781215204-zhivaja-jarost.jpg",
-    "link": "https://uakinogo.tv/126707-zhivaja-jarost.html"
-  },
-  {
     "title": "Мандалорец и Грогу (2026)",
     "kp_rating": "KP 7.1",
     "imdb_rating": "IMDB 7.0",
     "image": "https://uakinogo.tv/uploads/mini/minifull/ff0/1772574584-mandalorec-i-grogu-poster.jpg",
     "link": "https://uakinogo.tv/125434-mandalorec-i-grogu.html"
+  },
+  {
+    "title": "Живая ярость (2025)",
+    "kp_rating": "KP 7.0",
+    "imdb_rating": "IMDB 7.5",
+    "image": "https://uakinogo.tv/uploads/mini/minifull/f7f/1781215204-zhivaja-jarost.jpg",
+    "link": "https://uakinogo.tv/126707-zhivaja-jarost.html"
   },
   {
     "title": "Твоё сердце будет разбито (2026)",
@@ -35,18 +35,18 @@
     "link": "https://uakinogo.tv/125718-kommersant.html"
   },
   {
-    "title": "День разоблачения (2026)",
-    "kp_rating": "KP 6.3",
-    "imdb_rating": "IMDB 6.7",
-    "image": "https://uakinogo.tv/uploads/mini/minifull/bc2/1769425279-den-razoblachenija-poster.jpg",
-    "link": "https://uakinogo.tv/124726-den-razoblachenija.html"
-  },
-  {
     "title": "Миньоны и монстры (2026)",
     "kp_rating": "KP 6.4",
     "imdb_rating": "IMDB 6.5",
     "image": "https://uakinogo.tv/uploads/mini/minifull/dff/1770890423-minony-i-monstry-poster.jpg",
     "link": "https://uakinogo.tv/124957-minony-i-monstry.html"
+  },
+  {
+    "title": "День разоблачения (2026)",
+    "kp_rating": "KP 6.3",
+    "imdb_rating": "IMDB 6.7",
+    "image": "https://uakinogo.tv/uploads/mini/minifull/bc2/1769425279-den-razoblachenija-poster.jpg",
+    "link": "https://uakinogo.tv/124726-den-razoblachenija.html"
   },
   {
     "title": "Глубокие воды (2026)",
@@ -56,13 +56,6 @@
     "link": "https://uakinogo.tv/126343-glubokie-vody.html"
   },
   {
-    "title": "Колония (2026)",
-    "kp_rating": "KP 6.9",
-    "imdb_rating": "IMDB 6.9",
-    "image": "https://uakinogo.tv/uploads/mini/minifull/6d7/1774353620-kolonija-poster.jpg",
-    "link": "https://uakinogo.tv/125951-kolonija.html"
-  },
-  {
     "title": "Очень страшное кино 6 (2026)",
     "kp_rating": "KP 5.3",
     "imdb_rating": "IMDB 5.4",
@@ -70,17 +63,24 @@
     "link": "https://uakinogo.tv/125435-ochen-strashnoe-kino-6.html"
   },
   {
+    "title": "Ночной бизнес (2026)",
+    "kp_rating": "KP 6.0",
+    "imdb_rating": null,
+    "image": "https://uakinogo.tv/uploads/mini/minifull/898/1782345604-nochnoj-biznes.jpg",
+    "link": "https://uakinogo.tv/126815-nochnoj-biznes.html"
+  },
+  {
+    "title": "Колония (2026)",
+    "kp_rating": "KP 6.9",
+    "imdb_rating": "IMDB 6.9",
+    "image": "https://uakinogo.tv/uploads/mini/minifull/6d7/1774353620-kolonija-poster.jpg",
+    "link": "https://uakinogo.tv/125951-kolonija.html"
+  },
+  {
     "title": "Властелины вселенной (2026)",
     "kp_rating": "KP 6.3",
     "imdb_rating": "IMDB 7.1",
     "image": "https://uakinogo.tv/uploads/mini/minifull/90e/1780595561_vlasteliny-vselennoi.jpg",
     "link": "https://uakinogo.tv/124709-vlasteliny-vselennoj.html"
-  },
-  {
-    "title": "Привязанность (2025)",
-    "kp_rating": "KP 5.3",
-    "imdb_rating": "IMDB 5.4",
-    "image": "https://uakinogo.tv/uploads/mini/minifull/adb/1780992005-privjazannost.jpg",
-    "link": "https://uakinogo.tv/126684-privjazannost.html"
   }
 ]
